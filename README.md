@@ -1,5 +1,3 @@
-# huaihai.github.io
-personal summary
 
 # 我的个人总结
 
